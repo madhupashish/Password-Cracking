@@ -1,8 +1,10 @@
-![C:\Users\HP\Downloads\password cracki 1.png](relative/path/to/image.png)
+![image](https://github.com/madhupashish/Password-Cracking/assets/119279720/b9fb858c-e1e8-439f-a592-7b1876393af0)
 
 
 
-he NMap Project, a powerful and widely used network scanning and security auditing tool, extends its capabilities to include password cracking, revolutionizing the way organizations approach security testing. With the addition of password cracking functionality, NMap becomes an all-in-one solution for comprehensive vulnerability assessments and strengthens the defense against potential malicious attacks.
+
+
+This NMap Project, a powerful and widely used network scanning and security auditing tool, extends its capabilities to include password cracking, revolutionizing the way organizations approach security testing. With the addition of password cracking functionality, NMap becomes an all-in-one solution for comprehensive vulnerability assessments and strengthens the defense against potential malicious attacks.
 
 NMap's password cracking feature leverages its extensive scanning capabilities to identify weak authentication practices and test the strength of passwords used within a target network or system. By utilizing a combination of password dictionary attacks, brute-force techniques, and various other methods, NMap enhances security audits by identifying weak or compromised passwords that could be exploited by attackers.
 
